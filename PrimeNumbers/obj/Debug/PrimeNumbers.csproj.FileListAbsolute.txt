@@ -1,0 +1,5 @@
+C:\#Devel\VisualStudio\VS2012\InterviewPuzzles\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\#Devel\VisualStudio\VS2012\InterviewPuzzles\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\#Devel\VisualStudio\VS2012\InterviewPuzzles\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\#Devel\VisualStudio\VS2012\InterviewPuzzles\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\#Devel\VisualStudio\VS2012\InterviewPuzzles\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
